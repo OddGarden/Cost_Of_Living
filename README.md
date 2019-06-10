@@ -9,6 +9,8 @@ My Two Cents: I picked cost of living as my focus subject because of the amount 
 
 --> Is web dev an art? Still trying to figure this part out. Some of the feedback I have received include: avoid "busy" backgrounds, simple is always better & bright color doesn't always mean awesome. CSS might look simple but it requires some practice.
 
---> React works like a charmand feels just like writing HTML. React has the least abstractions but it does have a learing curve. Of course, this is the hottest thing right now so just like with everything else.. keep learning other things.
+--> React works like a charm and feels just like writing HTML. React has the least abstractions but it does have a learing curve so spend sometime learning it. Of course, this is the hottest thing right now but just like with everything else.. keep learning other things.
 
---> I can't be the only one that thinks this but libraries are great when they work.. especially if you know or understand them... for any newbies, be prepared for failure. It took me a while to get how google maps works even when a lot of people suggested that I use leaflet because it's easier to learn. I chose to stick with it. I got it to work ... and again I see potential here. 
+--> I can't be the only one that thinks this but libraries are great when they work.. especially if you know or understand them. For any newbies, be prepared for failure. It took me a while to get how google maps works even when a lot of people suggested that I use leaflet because it's easier to learn. I chose to stick with it. I got it to work it's not as fancy as other examples I have seen but now that I know the basics, I can build on that.
+
+TO BE CONTINUED....
