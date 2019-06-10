@@ -13,4 +13,6 @@ My Two Cents: I picked cost of living as my focus subject because of the amount 
 
 --> I can't be the only one that thinks this but libraries are great when they work.. especially if you know or understand them. For any newbies, be prepared for failure. It took me a while to get how google maps works even when a lot of people suggested that I use leaflet because it's easier to learn. I chose to stick with it. I got it to work it's not as fancy as other examples I have seen but now that I know the basics, I can build on that.
 
+End Result: https://oddgarden.github.io/CostOfLiving
+
 TO BE CONTINUED....
